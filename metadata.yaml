@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '40672'
     url: http://www.gutenberg.org/2009/agents/40672
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44290#A-King-of-TyreA-Tale-of-the-Times-of-Ezra-and-Nehemiah
 gutenberg_issued: '2013-11-26'
 gutenberg_type: Text
 identifiers:
