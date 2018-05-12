@@ -1,0 +1,32 @@
+_repo: A-King-of-TyreA-Tale-of-the-Times-of-Ezra-and-Nehemiah_44290
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44290-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ludlow, James M. (James Meeker)
+    aliases:
+    - Ludlow, J. M. (James Meeker)
+    - Ludlow, James Meeker
+    birthdate: 1841
+    deathdate: 1932
+    gutenberg_agent_id: '40672'
+    url: http://www.gutenberg.org/2009/agents/40672
+description: ''
+gutenberg_issued: '2013-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44290'
+  lccn: '07014502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tyre (Lebanon) -- Fiction'
+- !lcsh 'Jewish fiction'
+- !lcc 'PS'
+- !lcsh 'Jews -- History -- 586 B.C.-70 A.D. -- Fiction'
+title: 'A King of Tyre: A Tale of the Times of Ezra and Nehemiah'
+url: http://www.gutenberg.org/ebooks/44290
